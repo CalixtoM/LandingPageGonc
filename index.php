@@ -63,7 +63,7 @@
 					</div>
 					<div class="col-sm-6" id="contato" style="">
 						<form method="post" action="envio.php">
-							<center><h4 id="title">Tem interesse? Entre em contato conosco!</h4></center>
+							<center><h4 id="title">Gostou? Fale conosco!</h4></center>
 							<input type="text" name="nome" placeholder="Nome" class="form-control" id="inpt">
 							<input type="email" name="email" placeholder="Email" class="form-control" id="inpt">
 							<input type="number" name="celular" max="11" placeholder="Celular" class="form-control" id="inpt">
@@ -81,24 +81,15 @@
 					</div>
 				</div>
 			</div>
-		</div>
-
-		<!-- <div class="cond">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-						<center><h2 id="titulovideo">Uma Oportunidade Única!</h2></center>
-						<p></p>
-					</div>
-				</div>
-			</div>
-		</div> -->		
-<hr style="opacity : 0">
+		</div>		
+ 	
+ 	<hr style="opacity : 0">
+	
 		<div id="parte2" class="" style="height:100%; background-color: white; ">
 			<div class="container ">
 				<div class="row">
 					<div class="col-sm-12">
-						<center><h2 id="titulovideo titulos">ACOMPANHE UM POUCO DA OBRA</h2></center>
+						<center><h2 id="titulovideo titulos">DIV 2</h2></center>
 					</div>
 				</div>
 				<div class="row">
@@ -111,7 +102,7 @@
 			</div>
 		</div>
 
-		<!-- Opção imagens <div class="imgs" style="height: 100%;">
+		<div class="imgs" style="height: 100%;">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6">
@@ -137,7 +128,7 @@
 					</div>
 				</div>
 			</div>
-		</div> -->
+		</div>
 
 		<hr>
 
@@ -145,7 +136,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-12">
-						<center><h2 id="titulos" style="font-weight: bold;">SOBRADOS EM CONDOMÍNIO FECHADO</h2></center>
+						<center><h2 id="titulos" style="font-weight: bold;">CASAS EM CONDOMÍNIO FECHADO</h2></center>
 					</div>
 					<div class="col-sm-12" id="sub" style="margin-bottom: 25px;">
 						<center><h3 id="titulos">COM ACABAMENTO DE ALTO PADRÃO</h3></center>
@@ -350,7 +341,7 @@
 						</div>
 						<div class="row">
 							<div class="col-sm-12">
-								<p style="text-align: justify;">Excelente <b>casa de condominio</b>, com conforto e lazer que você e sua família merecem ter. Ótima localizacao, tanto para moradia quanto para passar os fins de semanas e férias. Rua de fácil acesso a todos os pontos da cidade, proximo ao comércio local, avenida principal, <b>perto da praia</b> e a 8min do centro da cidade.</p>
+								<p style="text-align: justify;">Excelente <b>casa de condominio</b>, com conforto e lazer que você e sua família merecem ter. Ótima localizacao, tanto para moradia quanto para passar os fins de semanas e férias. Rua de fácil acesso a todos os pontos da cidade, proximo ao comércio local, avenida principal, <b>perto da praia</b> e a 8 minutos do centro da cidade.</p>
 							</div>
 						</div>
 					</div>
