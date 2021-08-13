@@ -82,7 +82,10 @@
 
 	.parallax {
   	/* The image used */
-  	background-image: url("../img/ita2.jpg");
+  	/* Imagem Ita  
+  	background-image: url("../img/ita2.jpg"); */
+  	/* Imagem fachada */
+  	background-image: url("../img/imovel/01.jpg"); 
   	margin-top: -20px;
   	/* Set a specific height */
   	min-height: 600px;
