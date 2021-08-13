@@ -45,9 +45,6 @@
 				    		<a class="nav-link active" id="linknav" aria-current="page" href="#parallax">Inicio	</a>
 				    	</li>
 				    	<li class="nav-item">
-				    		<a class="nav-link" id="linknav" href="#parte2">Video</a>
-				    	</li>
-				    	<li class="nav-item">
 				        	<a class="nav-link" id="linknav" href="#parte3" tabindex="-1" aria-disabled="true">	informações</a>
 				    	</li>
 					</ul>
@@ -83,9 +80,9 @@
 			</div>
 		</div>		
  	
- 	<hr style="opacity : 0">
+ 	<hr id="linha" style="opacity : 0">
 	
-		<div id="parte2" class="" style="height:100%; background-color: white; ">
+		<!-- <div id="parte2" class="" style="height:100%; background-color: white; ">
 			<div class="container ">
 				<div class="row">
 					<div class="col-sm-12">
@@ -100,37 +97,9 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
-		<div class="imgs" style="height: 100%;">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-6">
-						<img src="img/imovel/olx0.jpeg" class="img-fluid">
-					</div>
-					<div class="col-sm-6">
-						<div class="row">
-							<div class="col-sm-6">
-								<img src="img/imovel/olx1.jpeg" class="img-fluid">
-							</div>
-							<div class="col-sm-6">
-								<img src="img/imovel/olx1.jpeg" class="img-fluid">
-							</div>
-						</div>
-						<div class="row" style="margin-top: 15px;">
-							<div class="col-sm-6">
-								<img src="img/imovel/olx1.jpeg" class="img-fluid">
-							</div>
-							<div class="col-sm-6">
-								<img src="img/imovel/olx1.jpeg" class="img-fluid">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<hr>
+		<!-- <hr> -->
 
 		<div id="parte3">
 			<div class="container">
@@ -182,85 +151,85 @@
 									<div class="carousel-item">
 										<img src="img/imovel/03.jpg" class="d-block w-100" alt="Segundo Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Corredor Principal</h5>
-											<p>Area Comum de Acesso às Casas</p>
+											<h5>Entrada</h5>
+											<p>Conheça a Entrada do Condomínio</p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img src="img/imovel/04.jpg" class="d-block w-100" alt="Terceiro Slide">
+										<div class="carousel-caption d-none d-md-block">
+											<h5>Entrada</h5>
+											<p>Conheça a Entrada do Condomínio</p>
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="img/imovel/05.jpg" class="d-block w-100" alt="Quarto Slide">
+										<div class="carousel-caption d-none d-md-block">
+											<h5>Ducha Coletiva e Guarita</h5>
+											<p></p>
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="img/imovel/06.jpg" class="d-block w-100" alt="Quinto Slide">
+										<div class="carousel-caption d-none d-md-block">
+											<h5>Ducha Coletiva e Guarita</h5>
+											<p></p>
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="img/imovel/07.jpg" class="d-block w-100" alt="Sexto Slide">
 										<div class="carousel-caption d-none d-md-block">
 											<h5>Garagem</h5>
 											<p>Espaço para Guardar seu veículo</p>
 										</div>
 									</div>
 									<div class="carousel-item">
-										<img src="img/imovel/05.jpg" class="d-block w-100" alt="Quarto Slide">
-										<div class="carousel-caption d-none d-md-block">
-											<h5>Entrada Sala</h5>
-											<p>A Primeira Vista do seu futuro lar</p>
-										</div>
-									</div>
-									<div class="carousel-item">
-										<img src="img/imovel/06.jpg" class="d-block w-100" alt="Quinto Slide">
-										<div class="carousel-caption d-none d-md-block">
-											<h5>Sala de Jantar</h5>
-											<p>Espaço Perfeito Para um Almoço em Família</p>
-										</div>
-									</div>
-									<div class="carousel-item">
-										<img src="img/imovel/07.jpg" class="d-block w-100" alt="Sexto Slide">
-										<div class="carousel-caption d-none d-md-block">
-											<h5>Sala de Jantar + Area</h5>
-											<p>Espaço Perfeito Para um Almoço em  Família</p>
-										</div>
-									</div>
-									<div class="carousel-item">
 										<img src="img/imovel/09.jpg" class="d-block w-100" alt="Setimo Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Sala de Jantar + Cozinha</h5>
-											<p>Conheça a cozinha independente</p>
+											<h5>Corredor Principal</h5>
+											<p>Área Comum de Acesso às Casas</p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img src="img/imovel/10.jpg" class="d-block w-100" alt="Oitavo Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Geral Sala</h5>
-											<p>Um Outro Ângulo para a Entrada</p>
+											<h5>Corredor Principal</h5>
+											<p>Área Comum de Acesso às Casas</p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img src="img/imovel/11.jpg" class="d-block w-100" alt="Nono Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Espaço Gourmet</h5>
-											<p>Local ideal para Confraternização e Lazer</p>
+											<h5>Cozinha</h5>
+											<p></p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img src="img/imovel/12.jpg" class="d-block w-100 img-fluid" alt="Decimo Slide">
 										<div class="carousel-caption d-none d-md-block">
 											<h5>Quarto</h5>
-											<p>Conheça a suíte.</p>
+											<p>Conheça o quarto.</p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img src="img/imovel/13.jpg" class="d-block w-100 img-fluid" alt="Decimo prim Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Quarto</h5>
-											<p>Conheça a suíte.</p>
+											<h5>Churrasqueira</h5>
+											<p></p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img src="img/imovel/14.jpg" class="d-block w-100 img-fluid" alt="Decimo seg Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Espaço Home Office</h5>
-											<p>Ideal para Trabalhar e Estudar em Casa</p>
+											<h5>Área Externa</h5>
+											<p>Espaço especial para toda a família</p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img src="img/imovel/15.jpg" class="d-block w-100 img-fluid" alt="Decimo ter Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Banheiro</h5>
-											<p></p>
+											<h5>Área Externa</h5>
+											<p>Espaço especial para toda a família</p>
 										</div>
 									</div>
 									<div class="carousel-item">
@@ -273,8 +242,8 @@
 									<div class="carousel-item">
 										<img src="img/imovel/17.jpg" class="d-block w-100 img-fluid" alt="Decimo quint Slide">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Quarto + banheiro</h5>
-											<p>Uma nova perspectiva para a suíte</p>
+											<h5>Visão Geral</h5>
+											<p>Uma perspectiva geral da cozinha e área externa</p>
 										</div>
 									</div>
 								</div>
@@ -372,7 +341,7 @@
 			</a>
 
 			<p>
-				<p>D'Roma Duplex de Luxo, um projeto <a href="http://mssoares.com.br/">MS Soares Construtora e Incorporadora </a><br> Site desenvolvido por <a href="https://github.com/CalixtoM">Matheus Calixto</a>.</p>
+				<p>Condominio Gonçalo Monteiro, exclusividade <a href="http://mssoares.com.br/">MS Soares Construtora e Incorporadora </a><br> Site desenvolvido por <a href="https://github.com/CalixtoM">Matheus Calixto</a>.</p>
 			<a href="#topo">Voltar ao Topo</a>
 				</p>
 

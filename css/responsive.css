@@ -1,6 +1,6 @@
 @media (max-width:  575px){
 	#parte2{
-		margin-top: 390px;
+		 margin-top: 39px; 
 	}
 	.imgs{
 		margin-top: 990px;
@@ -11,5 +11,9 @@
 		text-align: center;
 	}
 	.parallax{
+	}
+
+	#linha{
+		margin-top: 170px;
 	}
 }	

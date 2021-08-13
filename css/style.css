@@ -27,14 +27,12 @@
 		border-radius: 0px;
 		border: 2px solid darkorange;
 		padding: 20px;
-		box-shadow: 2 5px 10px 50px black;
-		transition: box-shadow 0.5s;
+		box-shadow: 0 8px 12px 0 black, 0 8px 12px 0 black;
 
 		  
 	}
 
 	#contato:hover{
-		box-shadow: 0 8px 12px 0 black, 0 8px 12px 0 black;
 
 	}
 
@@ -139,7 +137,7 @@
 	#titulovalor{
 		color: #FFD700;
 		font-family: Jazz LET, fantasy;
-		margin-top: 55px;
+		/* margin-top: 55px; */
 		-webkit-text-stroke-width: 2px; /* largura da borda */
 		-webkit-text-stroke-color: #000; /* cor da borda */
 	}
@@ -154,7 +152,7 @@
 	}
 
 	#linknav:hover{
-		color: darkred;
+		color: orange;
 	}
 
 	#topo{
@@ -170,3 +168,7 @@
 		-webkit-text-stroke-width: 2px; 
 		-webkit-text-stroke-color: #000; 
 	} */
+
+	#titulovalor{
+		margin-top: 80px;
+	}
