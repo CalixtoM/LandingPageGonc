@@ -310,7 +310,7 @@
 						</div>
 						<div class="row">
 							<div class="col-sm-12">
-								<p style="text-align: justify;">Excelente <b>casa de condominio</b>, com conforto e lazer que você e sua família merecem ter. Ótima localizacao, tanto para moradia quanto para passar os fins de semanas e férias. Rua de fácil acesso a todos os pontos da cidade, proximo ao comércio local, avenida principal, <b>perto da praia</b> e a 8 minutos do centro da cidade.</p>
+								<p style="text-align: justify;">Excelente <b>casa de condomínio</b>, com conforto e lazer que você e sua família merecem ter. <b>Ótima localização</b>, tanto para moradia quanto para passar os finais de semana e férias. Rua de fácil acesso a todos os pontos da cidade, <b>proximo ao comércio local</b>, avenida principal, <b>perto da praia</b> e a 8 minutos do centro da cidade.</p>
 							</div>
 						</div>
 					</div>
@@ -334,7 +334,7 @@
 
 		<footer class="page-footer" style="margin-top: 20px;">
 
-			<a href="https://wa.me/5513981194675?text=Tenho%20Interesse%20no%20Duplex" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+			<a href="https://wa.me/5513981194675?text=Tenho%20Interesse%20no%20Duplex" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;text-decoration: none;
 			  	z-index:1000;" target="_blank">
 				<i style="margin-top:16px" class="fa fa-whatsapp"></i>
 				<p style="font-size: 15px; margin-top: 7px; color: lightgreen;">Fale Conosco</p>
