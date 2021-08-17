@@ -131,7 +131,8 @@
 									<li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
 									<li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
 									<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
-									<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+									<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+									<li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
 								</ol>
 								<div class="carousel-inner">
 									<div class="carousel-item active"><!-- 1-->
@@ -244,6 +245,13 @@
 										<div class="carousel-caption d-none d-md-block">
 											<h5>Visão Geral</h5>
 											<p>Uma perspectiva geral da cozinha e área externa</p>
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="img/imovel/pisc.jpg" class="d-block w-100 img-fluid" alt="Decimo quint Slide">
+										<div class="carousel-caption d-none d-md-block">
+											<h5>Piscina</h5>
+											<p>Piscina Privativa</p>
 										</div>
 									</div>
 								</div>
