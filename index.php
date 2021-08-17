@@ -56,7 +56,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6">
-						<h1 style="margin-top: 80px;">Gonçalo Monteiro</h1>
+						<h1 style="margin-top: 80px;"></h1>
 					</div>
 					<div class="col-sm-6" id="contato" style="">
 						<form method="post" action="envio.php">
