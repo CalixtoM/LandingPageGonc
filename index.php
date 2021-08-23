@@ -63,8 +63,8 @@
 							<center><h4 id="title">Gostou? Fale conosco!</h4></center>
 							<input type="text" name="nome" placeholder="Nome" class="form-control" id="inpt">
 							<input type="email" name="email" placeholder="Email" class="form-control" id="inpt">
-							<input type="number" name="celular" max="11" placeholder="Celular" class="form-control" id="inpt">
-							<input type="number" name="telefone" max="10" placeholder="Telefone" class="form-control" id="inpt">
+							<input type="number" name="celular" placeholder="Celular" class="form-control" id="inpt">
+							<input type="number" name="telefone" placeholder="Telefone" class="form-control" id="inpt">
 
 							<center><input type="submit" value="Entrar em Contato" class="btn btn-outline-danger" id="inptf"></center>
 						</form>
@@ -318,7 +318,7 @@
 						</div>
 						<div class="row">
 							<div class="col-sm-12">
-								<p style="text-align: justify;">Excelente <b>casa de condomínio</b>, com conforto e lazer que você e sua família merecem ter. <b>Ótima localização</b>, tanto para moradia quanto para passar os finais de semana e férias. Rua de fácil acesso a todos os pontos da cidade, <b>proximo ao comércio local</b>, avenida principal, <b>perto da praia</b> e a 8 minutos do centro da cidade.</p>
+								<p style="text-align: justify;">Excelente <b>casa de condomínio</b>, com conforto e lazer que você e sua família merecem ter. <b>Ótima localização</b>, tanto para moradia quanto para passar os finais de semana e férias. Rua de fácil acesso a todos os pontos da cidade, <b>proximo ao comércio local</b>, avenida principal, <b>perto da praia</b> e a 8 minutos do Centro da Cidade.</p>
 							</div>
 						</div>
 					</div>
